@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="142px" height="202px" viewBox="0 0 142 202" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>004</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M95.7156227,90.3754409 C95.7156227,90.3754409 51.494523,26.17113 51.494523,0 C51.494523,26.17113 7.28437733,90.3754409 7.28437733,90.3754409 C2.77134957,98.0347485 0,106.868191 0,116.414892 C0,144.912345 23.0580666,168 51.494523,168 C79.9419334,168 103,144.912345 103,116.414892 C103,106.868191 100.22865,98.0347485 95.7156227,90.3754409" id="path-1"></path>
+        <filter x="-35.9%" y="-13.7%" width="171.8%" height="144.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="14" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.180083786 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="越麦越红火移动端" transform="translate(0.000000, -1537.000000)">
+            <g id="Group-13-Copy" transform="translate(0.000000, 1537.000000)">
+                <g id="Group-14" transform="translate(19.000000, 0.000000)">
+                    <g id="Fill-37-Copy-3">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
